@@ -1,0 +1,37 @@
+2026-03-19 10:14:52,338 - INFO - Job started
+2026-03-19 10:14:52,339 - INFO - Config loaded: seed=42, window=5, version=v1
+2026-03-19 10:14:52,380 - INFO - Rows loaded: 10000
+2026-03-19 10:14:52,380 - INFO - Computing rolling mean
+2026-03-19 10:14:52,381 - INFO - Generating signal
+2026-03-19 10:14:52,383 - INFO - Metrics: {'version': 'v1', 'rows_processed': 10000, 'metric': 'signal_rate', 'value': 0.4989, 'latency_ms': 44, 'seed': 42, 'status': 'success'}
+2026-03-19 10:14:52,383 - INFO - Job completed successfully
+2026-03-19 05:20:06,963 - INFO - Job started
+2026-03-19 05:20:06,964 - INFO - Config loaded: seed=42, window=5, version=v1
+2026-03-19 05:20:06,984 - INFO - Rows loaded: 10000
+2026-03-19 05:20:06,984 - INFO - Computing rolling mean
+2026-03-19 05:20:06,985 - INFO - Generating signal
+2026-03-19 05:20:06,987 - INFO - Metrics: {'version': 'v1', 'rows_processed': 10000, 'metric': 'signal_rate', 'value': 0.4989, 'latency_ms': 23, 'seed': 42, 'status': 'success'}
+2026-03-19 05:20:06,987 - INFO - Job completed successfully
+2026-03-19 11:17:50,759 - INFO - Job started
+2026-03-19 11:17:50,760 - INFO - Config loaded: seed=42, window=5, version=v1
+2026-03-19 11:17:50,772 - ERROR - Data error: Missing 'close' column
+2026-03-19 11:20:17,788 - INFO - Job started
+2026-03-19 11:20:17,789 - INFO - Config loaded: seed=42, window=5, version=v1
+2026-03-19 11:20:17,800 - ERROR - Data error: Missing 'close' column
+2026-03-19 11:22:18,075 - INFO - Job started
+2026-03-19 11:22:18,076 - INFO - Config loaded: seed=42, window=5, version=v1
+2026-03-19 11:22:18,115 - ERROR - Data error: Missing 'close' column
+2026-03-19 11:24:00,048 - INFO - Job started
+2026-03-19 11:24:00,049 - INFO - Config loaded: seed=42, window=5, version=v1
+2026-03-19 11:24:00,090 - INFO - Rows loaded: 10000
+2026-03-19 11:24:00,090 - INFO - Computing rolling mean
+2026-03-19 11:24:00,091 - INFO - Generating signal
+2026-03-19 11:24:00,092 - INFO - Metrics: {'version': 'v1', 'rows_processed': 10000, 'metric': 'signal_rate', 'value': 0.4989, 'latency_ms': 43, 'seed': 42, 'status': 'success'}
+2026-03-19 11:24:00,092 - INFO - Job completed successfully
+2026-03-19 11:24:14,412 - INFO - Job started
+2026-03-19 11:24:14,413 - INFO - Config loaded: seed=42, window=5, version=v1
+2026-03-19 11:24:14,454 - INFO - Rows loaded: 10000
+2026-03-19 11:24:14,454 - INFO - Computing rolling mean
+2026-03-19 11:24:14,455 - INFO - Generating signal
+2026-03-19 11:24:14,456 - INFO - Metrics: {'version': 'v1', 'rows_processed': 10000, 'metric': 'signal_rate', 'value': 0.4989, 'latency_ms': 43, 'seed': 42, 'status': 'success'}
+2026-03-19 11:24:14,457 - INFO - Job completed successfully
